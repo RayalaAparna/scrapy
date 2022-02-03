@@ -11,7 +11,7 @@ class Link:
 
     Using the anchor tag sample below to illustrate the parameters::
 
-            <a href="https://example.com/nofollow.html#foo" rel="nofollow">Dont follow this one</a>
+            <a href="https://www.1/{de}/dp/{1015}" rel="nofollow">Dont follow this one</a>
 
     :param url: the absolute url being linked to in the anchor tag.
                 From the sample, this is ``https://example.com/nofollow.html``.
